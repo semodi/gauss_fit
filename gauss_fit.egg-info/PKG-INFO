@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: gauss-fit
+Version: 0.1.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Sebastian Dick
+Author-email: sebastian.dick@stonybrook.edu
+License: BSD-3C
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Provides-Extra: tests
+Provides-Extra: docs

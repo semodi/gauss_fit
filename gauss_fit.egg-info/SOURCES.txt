@@ -1,0 +1,16 @@
+gauss_fit/__init__.py
+gauss_fit/atom.py
+gauss_fit/conversions.py
+gauss_fit/molecule.py
+gauss_fit/molecule_classes.py
+gauss_fit.egg-info/PKG-INFO
+gauss_fit.egg-info/SOURCES.txt
+gauss_fit.egg-info/dependency_links.txt
+gauss_fit.egg-info/requires.txt
+gauss_fit.egg-info/top_level.txt
+gauss_fit.egg-info/zip-safe
+gauss_fit/fitting/__init__.py
+gauss_fit/fitting/gauss_charge.py
+gauss_fit/fitting/gauss_util.py
+gauss_fit/fitting/mono_fit.py
+test/test_gauss.py
